@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsa0008
 - 👀 I’m interested in using EDA efforts for reliability optimization in Power Electronics
-- 🌱 I’m currently learning different optimization algorithms, advanced numerical analysis, machine learning, and FEA (using Solidworks and Ansys)
+- 🌱 I’m currently interested optimization algorithms, advanced numerical analysis, machine learning, and FEA (using Solidworks and Ansys)
 - 💞️ I’m looking to collaborate on EDA works in Power Electronics and/or Power Systems
 - 📫 How to reach me via dsa008@uark.edu
 
